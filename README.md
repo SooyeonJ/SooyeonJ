@@ -1,8 +1,9 @@
 # 👩‍💻 SOOYEON JEONG
 
-🎓 M.Eng Hanyang University in Computer Science, Sep 2025 – now 🎓 B.S. in Computer Software Engineering  
+🎓 M.Eng Hanyang University in Computer Science, Sep 2025 – now  
+🎓 B.S. in Computer Software Engineering  
 
-💼 IT System Operator specialized in **Healthcare Data** · **DevOps** · **CI/CD** · **Database Operation**
+💼 IT System Operator specialized in **Healthcare & Financial Data** · **DevOps** · **CI/CD** · **Database Operation**
 
 ---
 
@@ -11,7 +12,7 @@
 | Company | Duration |
 |---------|----------|
 | Korea Health Information Service (KHIS) | 2023.08 ~ now |
-| Yonsei University Health System | 2022.08 ~ 2023.07 |
+| Yonsei University Health System (Severance) | 2022.08 ~ 2023.07 |
 | UBcare | 2021.06 ~ 2022.07 |
 | SEESAWTALK | 2019.04 ~ 2019.12 |
 
