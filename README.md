@@ -39,9 +39,9 @@
 
 ## 📄 Research
 
-### [Identifying Contact Time Required for Secondary Transmission of *Clostridioides difficile* Infections by Using Real-Time Locating System](https://wwwnc.cdc.gov/eid/article/30/5/23-1588_article)
-*Emerging Infectious Diseases, CDC — Vol.30, No.5, May 2024*
-🏅 **Published in SCI-level International Journal (CDC, IF 7.2)**
+#### [Identifying Contact Time Required for Secondary Transmission of *Clostridioides difficile* Infections by Using Real-Time Locating System](https://wwwnc.cdc.gov/eid/article/30/5/23-1588_article)
+*Emerging Infectious Diseases, CDC — Vol.30, No.5, May 2024*  
+**Published in SCI-level International Journal (CDC, IF 7.2)**🏅
 
 - 연세의료원 RTLS 태그 데이터 기반 index patient 26명 · 접촉 사례 4,196건 분석
 - 결측값·이상치 처리 및 추적 기간 필터링 → 최종 3,620건 분석 데이터셋 구축
@@ -53,8 +53,3 @@
 
 `Data Engineering` `DevOps` `System Reliability` `Backend Operation` `Financial IT`
 
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SooyeonJ&show_icons=true&theme=default&hide_border=true" />
-</p>
