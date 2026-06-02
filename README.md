@@ -36,7 +36,7 @@
 ## 📄 Research
 #### [Identifying Contact Time Required for Secondary Transmission of *Clostridioides difficile* Infections by Using Real-Time Locating System](https://wwwnc.cdc.gov/eid/article/30/5/23-1588_article)
 *Emerging Infectious Diseases, CDC — Vol.30, No.5, May 2024 · IF 7.2 🏅*
-- RTLS 기반 접촉 사례 4,196건 → 최종 3,620건 데이터셋 구축·피처 엔지니어링 
+- (SCI 논문 공동 저자) RTLS 기반 접촉 사례 4,196건 → 최종 3,620건 데이터셋 구축·피처 엔지니어링 
 
 ---
 
