@@ -15,8 +15,6 @@
 
 ---
 
-## 🚀 Featured Projects & Products
-
 ### 🏥 KHIS — [Healthcare MyData System](https://www.myhealthway.go.kr)
 - CI/CD 파이프라인 구축 ⇒ 배포 시간 50% 단축 · SQL 점검 쿼리 자동화 ⇒ 오류 분석 20% 단축
 - Spring(전자정부 프레임워크) 기반 OAuth2·RSA·SEED-CTR 암호화 모듈 개발 · C# Windows 서비스 개발
@@ -33,6 +31,13 @@
 
 ---
 
+🚀 Featured Projects & Products
+| 프로젝트 | 한 줄 소개 & 핵심 가치 | 관련 링크 |
+|---|---|---|
+| **MediCost AI** | "흩어진 약값 데이터를, 한눈에 재무 리포트로"<br>투약이력 PDF를 AI가 자동 분석해 약제비 흐름과 연령대 평균 대비 재무 리스크를 진단·시각화 | 🔗 [Live Demo](https://medicost-ai.lovable.app/) |
+
+---
+
 ## 📄 Research
 #### [Identifying Contact Time Required for Secondary Transmission of *Clostridioides difficile* Infections by Using Real-Time Locating System](https://wwwnc.cdc.gov/eid/article/30/5/23-1588_article)
 *Emerging Infectious Diseases, CDC — Vol.30, No.5, May 2024 · IF 7.2 🏅*
@@ -41,16 +46,11 @@
 ---
 
 ## 🏆 Activities
-
 #### 📈 [DB GAPS - Mock Investment Competition](https://github.com/SooyeonJ/investment-analytics) *(2026, -ing)*
-- 퀀트 담당 · 매크로-모멘텀-퀀트 전략 수치화 및 백테스팅
-- pykrx 기반 ETF 188개 가격 수집 · pandas 활용 자산군별 수익률 기여도·모멘텀 스코어(1M+3M+6M+12M) 산출 및 시각화 (matplotlib)
-
-#### 💡 [MediCost AI - 건강보험심사평가원 보건의료빅데이터·AI 활용 창업경진대회](https://github.com/SooyeonJ/medicost-ai) *(2026, -ing)*
-- 의료·금융 융합 서비스 — 의료 마이데이터 기반 약제비 재무 분석
-- 투약이력 PDF ⇒ AI 자동 분석(Google Gemini) ⇒ 약제비 흐름·재무 리스크 시각화
-- React 19 · TypeScript · Supabase · Cloudflare Workers
-
+- 국내 자산배분 담당 · 188개 ETF 유니버스 대상 pykrx 기반 시세 조회·백테스팅 스크립트 개발
+- argparse 기반 CLI 도구 3종 설계 (`--file`/`--month`/`--date` 파라미터화) ⇒ 매월 코드 수정 없이 재실행 가능한 분석 파이프라인 구축
+- pandas로 종목별 보유구간(`series > 0`) 자동 슬라이싱 + pykrx `get_market_ohlcv_by_date` 종가 매핑 ⇒ 포지션 변화(분할매수)와 가격변동을 분리한 순수 수익률 계산 로직 설계
+- 실제 매도 시나리오 vs counterfactual(미매도 가정) 시계열을 `date_to_idx`로 정렬·병합 ⇒ 리밸런싱 효과를 %p 단위로 정량화
 ---
 
 ## 🎯 Interests
