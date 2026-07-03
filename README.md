@@ -31,7 +31,7 @@
 
 ---
 
-🚀 Featured Projects & Products
+### 🚀 Featured Projects & Products
 | 프로젝트 | 한 줄 소개 & 핵심 가치 | 관련 링크 |
 |---|---|---|
 | **MediCost AI** | "흩어진 약값 데이터를, 한눈에 재무 리포트로"<br>투약이력 PDF를 AI가 자동 분석해 약제비 흐름과 연령대 평균 대비 재무 리스크를 진단·시각화 | 🔗 [Live Demo](https://medicost-ai.lovable.app/) |
