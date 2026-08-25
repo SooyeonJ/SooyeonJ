@@ -17,7 +17,9 @@
 
 ### 🏥 KHIS — [Healthcare MyData System](https://www.myhealthway.go.kr)
 - CI/CD 파이프라인 구축 ⇒ 배포 시간 50% 단축 · SQL 점검 쿼리 자동화 ⇒ 오류 분석 20% 단축
-- Spring(전자정부 프레임워크) 기반 OAuth2·RSA·SEED-CTR 암호화 모듈 개발 · C# Windows 서비스 개발
+- 마이데이터 중계플랫폼 API 개발 프로젝트 기획·PM — Spring Boot · Java · RESTful API · MyBatis · Swagger · Spring Batch 스택 기반, 요구사항 정의·일정 관리·품질 검토 담당
+- 마이데이터 테스트베드 포털 운영 — 참여기관(마이데이터 사업자) 대상 API 연동 테스트 지원
+- C# Windows 서비스 개발
 - 멀티 클라우드(네이버·카카오·더존·G-Cloud) 운영 · 2025년 국가정보자원관리원 화재 복구 참여
 
 ### 🏥 Yonsei University Health System — Data Analysis & DB Construction
