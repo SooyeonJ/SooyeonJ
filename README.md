@@ -1,7 +1,8 @@
 # 👩‍💻 SOOYEON JEONG
-🎓 M.Eng Hanyang University in Computer Science, Sep 2025 – now  
-🎓 B.S. in Computer Software Engineering  
-💼 IT System Operator specialized in **Healthcare & Financial Data** · **DevOps** · **CI/CD** · **Database Operation**
+🎓 M.Eng. Candidate in Computer Science · Hanyang · Sep 2025 – ing </br>
+🎓 B.S. in Computer & Software Engineering · Hanyang </br>
+💼 IT System Operator · **Healthcare & Financial Data** · **DevOps** · **CI/CD** · **Database Operations**
+
 
 ---
 
@@ -16,7 +17,7 @@
 ---
 
 ### 🏥 KHIS — [Healthcare MyData System](https://www.myhealthway.go.kr)
-- CI/CD 파이프라인 구축 ⇒ 배포 시간 50% 단축 · SQL 점검 쿼리 자동화 ⇒ 오류 분석 20% 단축
+- CI/CD 파이프라인 구축 ⇒ 배포 시간 50% 단축 · SQL 점검 쿼리 자동화 ⇒ 오류 분석 40% 단축
 - 마이데이터 중계플랫폼 API 개발 프로젝트 기획·PM — Spring Boot · Java · RESTful API · MyBatis · Swagger · Spring Batch 스택 기반, 요구사항 정의·일정 관리·품질 검토 담당
 - 마이데이터 테스트베드 포털 운영 — 참여기관(마이데이터 사업자) 대상 API 연동 테스트 지원
 - C# Windows 서비스 개발
@@ -24,7 +25,8 @@
 
 ### 🏥 Yonsei University Health System — Data Analysis & DB Construction
 - UK Biobank 50만명 빅데이터 ⇒ 원내 MS-SQL DB 구축 (11개 카테고리·26개 테이블) · DICOM 추출
-- RTLS 150만 row 기반 낙상위험도 평가 모델 · 감염병 전파 분석 → CDC SCI급 논문 제4저자 (IF 7.2)
+- 결측치·이상치 처리 기준 직접 수립 ⇒ 신뢰도 있는 연구용 데이터셋 구축
+- RTLS 150만 row 기반 낙상위험도 평가 모델 · 감염병 전파 분석 → CDC SCI급 논문 저자 (IF 7.2)
 
 ### 💊 UBCare — EMR System Operation & Development
 - 국내 1위 병의원 EMR(의사랑) 운영·유지보수
@@ -48,7 +50,7 @@
 ---
 
 ## 🏆 Activities
-#### 📈 [DB GAPS - Mock Investment Competition](https://github.com/SooyeonJ/investment-analytics) *(2026, -ing)*
+#### 📈 [DB GAPS - Mock Investment Competition](https://github.com/SooyeonJ/investment-analytics) *(2026 06-09)*
 - 국내 자산배분 담당 · 188개 ETF 유니버스 대상 pykrx 기반 시세 조회·백테스팅 스크립트 개발
 - argparse 기반 CLI 도구 3종 설계 (`--file`/`--month`/`--date` 파라미터화) ⇒ 매월 코드 수정 없이 재실행 가능한 분석 파이프라인 구축
 - pandas로 종목별 보유구간(`series > 0`) 자동 슬라이싱 + pykrx `get_market_ohlcv_by_date` 종가 매핑 ⇒ 포지션 변화(분할매수)와 가격변동을 분리한 순수 수익률 계산 로직 설계
