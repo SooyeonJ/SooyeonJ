@@ -39,7 +39,7 @@
 | 프로젝트 | 한 줄 소개 & 핵심 가치 | 관련 링크 |
 |---|---|---|
 | **MediCost AI** | "흩어진 약값 데이터를, 한눈에 재무 리포트로"<br>투약이력 PDF를 AI가 자동 분석해 약제비 흐름과 연령대 평균 대비 재무 리스크를 진단·시각화 | 🔗 [Live Demo](https://medicost-ai.lovable.app/) |
-| **Financial AI GPT** | **금융 AI 챗봇의 환각·RAG 대응 관련 텍스트 기반 GPT 학습·과적합 완화**<br>금융위·NIA 자료 기반 18,253토큰 데이터 구성 → GPT 훈련 → 과적합 발견 → Early Stopping 적용·최적 모델 복원<br>기존 10에포크 최종 모델 대비 **검증 손실 약 33.6% 감소** (검증 데이터·체크포인트 선택 기준) | [Code & Results](https://github.com/SooyeonJ/Graduate-School/tree/main/26-2_ComputerSpecialTopics-LLM/Financial-AI-GPT) |
+| **Financial AI GPT** | "금융 AI 챗봇의 환각·RAG를 주제로 GPT 학습 성능 개선"<br>금융위·NIA 자료 18,253토큰 학습 → Early Stopping 적용, 기존 최종 모델 대비 **검증 손실 33.6% 감소** | [Code & Results](https://github.com/SooyeonJ/Graduate-School/tree/main/26-2_ComputerSpecialTopics-LLM/Financial-AI-GPT) |
 
 ---
 
